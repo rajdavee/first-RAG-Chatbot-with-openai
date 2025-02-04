@@ -1,10 +1,13 @@
-llama-index
-google-generativeai
-llama-index-llms-gemini
-pypdf
+llama-index>=0.9.8
 python-dotenv
 IPython
-llama-index-embeddings-gemini
-streamlit
+streamlit>=1.29.0
+langchain-openai>=0.0.5
+llama-index-llms-langchain>=0.1.4
+llama-index-embeddings-openai>=0.1.4
+openai>=1.0.0
+pypdf
+langchain>=0.1.0
+langchain-core>=0.1.7
 
 #-e .

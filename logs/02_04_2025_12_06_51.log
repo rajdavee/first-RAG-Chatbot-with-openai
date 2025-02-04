@@ -1,0 +1,9 @@
+[2025-02-04 12:07:33,384] 17 root - INFO - data loading started...
+[2025-02-04 12:07:34,440] 20 root - INFO - data loading completed...
+[2025-02-04 12:07:35,375] 11 root - INFO - Initializing OpenAI embedding model
+[2025-02-04 12:07:35,377] 15 root - INFO - Configuring Settings
+[2025-02-04 12:07:36,868] 21 root - INFO - Creating VectorStoreIndex
+[2025-02-04 12:07:38,653] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-02-04 12:07:39,153] 27 root - INFO - Creating Query Engine
+[2025-02-04 12:07:40,069] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-02-04 12:07:42,050] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
